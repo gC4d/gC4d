@@ -5,7 +5,7 @@
 # Status:
 <div>
   <a href="https://github.com/gC4d">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gC4d&layout=compact&langs_count=7&theme=dracula"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gC4d&" alt="gC4d" /></p>
 
 </div>
 <div style="display: inline_block"><br>
