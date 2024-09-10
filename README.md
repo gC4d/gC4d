@@ -1,6 +1,21 @@
 - 👋 Hi, I’m Guilherme
 # Tech:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+
+<div align="center">
+    <img alt="C#" width="45px" style="padding-right:10px;" src="img/c-icon.svg">
+    <img alt="Java" width="45px" style="padding-right:10px;" src="img/java-icon.svg">
+    <img alt="Python3" width="45px" style="padding-right:10px;" src="img/python-icon.svg">
+</div>
+
+<br />
+
+## 🛠️ Ferramentas
+
+<div align="center">
+    <img alt="PostgreSQL" width="45px" style="padding-right:10px;" src="img/postgresql-icon.svg">
+    <img alt="Docker" width="45px" style="padding-right:10px;" src="img/docker-icon.svg">
+    <img alt="Linux" width="45px" style="padding-right:10px;" src="img/linux-icon.svg">
+</div>
 
 # Status:
 <div>
