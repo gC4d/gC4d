@@ -3,7 +3,7 @@
 - 🚀 **Back-End Developer**
 - 🤖 **Automation**: "Every second saved is a second earned"  
 - 🦖 **Paleontology & Tech in Biology Enthusiast**: Exploring the intersection of technology and the natural world  
-- 🐧 **Linux User**: My main workstation runs on Linux
+- 🐧 **Linux User**: I have a picture with Maddog lol
 
 ### ⚡ Stats:
 
