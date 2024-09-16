@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Guilherme Cadorin</h1>
 
 - 🚀 **Back-End Developer**
-- 🤖 **Automation Enthusiast**: "Every second saved is a second earned"  
-- 🦖 **Paleontology & Tech in Biology Fan**: Exploring the intersection of technology and the natural world  
+- 🤖 **Automation**: "Every second saved is a second earned"  
+- 🦖 **Paleontology & Tech in Biology Enthusiast**: Exploring the intersection of technology and the natural world  
 - 🐧 **Linux User**: My main workstation runs on Linux
 
 ### ⚡ Stats:
